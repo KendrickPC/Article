@@ -1,0 +1,13 @@
+.container {
+max-width: 1199px;
+max-height: 1392;
+margin: auto;
+width: 90%;
+border: 3px solid black;
+padding: 15px;
+}
+
+.del {
+    text-decoration: line-through;
+}
+
